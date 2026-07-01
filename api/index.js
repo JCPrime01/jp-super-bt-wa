@@ -32,9 +32,9 @@
 
     const source = '&utm_medium=wa'
     
-    const source = '&home=1'
+    const home = '&home=1'
 
-    const destino = new URL(url + shareCode + afp + source)
+    const destino = new URL(url + shareCode + afp + source + home)
 
     const entrada = new URL(req.url, `https://${req.headers.host}`).searchParams;
 
