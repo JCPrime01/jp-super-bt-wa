@@ -26,7 +26,7 @@
     
     const url = 'https://go.aff.bateu.bet.br/l9da18p1?campaign_id=31558'
 
-    const shareCode = '&shareCode=IW1E3VTRI5R'
+    const shareCode = '&shareCode=FX26P98EI4H'
     
     const afp = '&afp=boost'
 
